@@ -1,0 +1,9 @@
+class Sample
+{
+int a;
+public static void main(String args[])
+{
+int b=10;
+int c;
+System.out.println(new Sample().a+" "+b+" "+c);
+}}
